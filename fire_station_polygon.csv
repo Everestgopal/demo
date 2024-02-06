@@ -1,0 +1,68 @@
+amenity,building,name,addr:housenumber,addr:street,addr:street:name,addr:street:prefix,addr:street:type,chicago:building_id
+fire_station,public,Chicago Engine Company 68,5258-5260,West Grand Avenue,Grand,West,Avenue,287359
+fire_station,public,Chicago Fire Department Engine Company 102,7330-7352,North Clark Street,Clark,North,Street,886082
+fire_station,public,Chicago Fire Department Engine Company 103,25,South Laflin Street,Laflin,South,Street,357955
+fire_station,public,Chicago Fire Department Engine Company 108,4625,North Milwaukee Avenue,Milwaukee,North,Avenue,117126
+fire_station,public,Chicago Fire Department Engine Company 112,3801,North Damen Avenue,Damen,North,Avenue,162650
+fire_station,public,Chicago Fire Department Engine Company 113,5212,West Harrison Street,Harrison,West,Street,366400
+fire_station,public,Chicago Fire Department Engine Company 116,5947-5953,South Ashland Avenue,Ashland,South,Avenue,513210
+fire_station,public,Chicago Fire Department Engine Company 117,4900-4914,West Chicago Avenue,Chicago,West,Avenue,341728
+fire_station,public,Chicago Fire Department Engine Company 123,2215,West 51st Street,51st,West,Street,461801
+fire_station,public,Chicago Fire Department Engine Company 124,4426-4428,North Kedzie Avenue,Kedzie,North,Avenue,
+fire_station,public,Chicago Fire Department Engine Company 23,1915,South Damen Avenue,Damen,South,Avenue,382005
+fire_station,public,Chicago Fire Department Engine Company 38,3935-3957,West 16th Street,16th,West,Street,
+fire_station,public,Chicago Fire Department Engine Company 39,1618,West 33rd Place,33rd,West,Place,414564
+fire_station,public,Chicago Fire Department Engine Company 4,548,West Division Street,Division,West,Street,320668
+fire_station,public,Chicago Fire Department Engine Company 46,3027,East 93rd Street,93rd,East,Street,690053
+fire_station,public,Chicago Fire Department Engine Company 49,4401,South Ashland Avenue,Ashland,South,Avenue,435805
+fire_station,public,Chicago Fire Department Engine Company 71,6235-6239,North California Avenue,California,North,Avenue,31010
+fire_station,public,Chicago Fire Department Engine Company 74,10615,South Ewing Avenue,Ewing,South,Avenue,741707
+fire_station,public,Chicago Fire Department Engine Company 76,1751,North Pulaski Road,Pulaski,North,Road,297318
+fire_station,public,Chicago Fire Department Engine Company 80,12701,South Doty Avenue,Doty,South,Avenue,802381
+fire_station,public,Chicago Fire Department Engine Company 84,21,West 59th Street,59th,West,Street,827154
+fire_station,public,Chicago Fire Department Engine Company 91,2827,North Pulaski Road,Pulaski,North,Road,239935
+fire_station,public,Chicago Fire Department Engine Company 95,4001-4005,West West End Avenue,West End,West,Avenue,356108
+fire_station,public,E35,1901,North Damen Avenue,Damen,North,Avenue,289548
+fire_station,public,E97,13359,South Burley Avenue,Burley,South,Avenue,809817
+fire_station,yes,Chicago Engine Company 106,3401,North Elston Avenue,Elston,North,Avenue,195058
+fire_station,yes,Chicago Engine Company 125,2323,North Natchez Avenue,Natchez,North,Avenue,271758
+fire_station,yes,Chicago Engine Company 55,2714-2720,North Halsted Street,Halsted,North,Street,240664
+fire_station,yes,Chicago Engine Company 57,1244-1254,North Western Avenue,Western,North,Avenue,319945
+fire_station,yes,Chicago Engine Company 78,1052,West Waveland Avenue,Waveland,West,Avenue,168825
+fire_station,yes,Chicago Engine Company 83,1200,West Wilson Avenue,Wilson,West,Avenue,112588
+fire_station,yes,Chicago Engine Company 86,3918,North Harlem Avenue,Harlem,North,Avenue,163096
+fire_station,yes,Chicago Fire Academy,558,West DeKoven Street,DeKoven,West,Street,369839
+fire_station,yes,Chicago Fire Department ARFF Station #1,,,,,,123037
+fire_station,yes,Chicago Fire Department ARFF Station #3,,,,,,65419
+fire_station,yes,Chicago Fire Department Engine Company 1,419,South Wells Street,Wells,South,Street,362673
+fire_station,yes,Chicago Fire Department Engine Company 104,11641,South Avenue O,Avenue O,South,,784263
+fire_station,yes,Chicago Fire Department Engine Company 109,2343,South Kedzie Avenue,,,,
+fire_station,yes,Chicago Fire Department Engine Company 11,5343,North Cumberland Avenue,Cumberland,North,Avenue,76485
+fire_station,yes,Chicago Fire Department Engine Company 110,2322,West Foster Avenue,Foster,West,Avenue,76770
+fire_station,yes,Chicago Fire Department Engine Company 119,6030,North Avondale Avenue,Avondale,North,Avenue,42756
+fire_station,yes,Chicago Fire Department Engine Company 120,11035-11037,South Homewood Avenue,Homewood,South,Avenue,767596
+fire_station,yes,Chicago Fire Department Engine Company 121,1724,West 95th Street,95th,West,Street,886062
+fire_station,yes,Chicago Fire Department Engine Company 126,7313-7317,South Kingston Avenue,Kingston,South,Avenue,582163
+fire_station,yes,Chicago Fire Department Engine Company 129,8118-8120,South Ashland Avenue,Ashland,South,Avenue,633583
+fire_station,yes,Chicago Fire Department Engine Company 13,,,,,,
+fire_station,yes,Chicago Fire Department Engine Company 14,1129,West Chicago Avenue,Chicago,West,Avenue,339367
+fire_station,yes,Chicago Fire Department Engine Company 18,1360,South Blue Island Avenue,Blue Island,South,Avenue,885990
+fire_station,yes,Chicago Fire Department Engine Company 22,1940-1956,North Larrabee Street,Larrabee,North,Street,284162
+fire_station,yes,Chicago Fire Department Engine Company 24,10400-10402,South Vincennes Avenue,Vincennes,South,Avenue,736906
+fire_station,yes,Chicago Fire Department Engine Company 28,2528-2534,South Throop Street,Throop,South,Street,395290
+fire_station,yes,Chicago Fire Department Engine Company 29,3509,South Lowe Avenue,Lowe,South,Avenue,417920
+fire_station,yes,Chicago Fire Department Engine Company 32,5555,South Narragansett Avenue,Narragansett,South,Avenue,497242
+fire_station,yes,Chicago Fire Department Engine Company 34,4034,West 47th Street,47th,West,Street,447504
+fire_station,yes,Chicago Fire Department Engine Company 42,55,West Illinois Street,Illinois,West,Street,349012
+fire_station,yes,Chicago Fire Department Engine Company 43,2175-2183,North Stave Street,Stave,North,Street,275612
+fire_station,yes,Chicago Fire Department Engine Company 44,406-418,North Kedzie Avenue,Kedzie,North,Avenue,
+fire_station,yes,Chicago Fire Department Engine Company 5,324,South Desplaines Street,Desplaines,South,Street,821492
+fire_station,yes,Chicago Fire Department Engine Company 69,4017,North Tripp Avenue,Tripp,North,Avenue,153327
+fire_station,yes,Chicago Fire Department Engine Company 70,6014-6030,North Clark Street,Clark,North,Street,886090
+fire_station,yes,Chicago Fire Department Engine Company 72,7974,South South Chicago Avenue,South Chicago,South,Avenue,616956
+fire_station,yes,Chicago Fire Department Engine Company 79,6424,North Lehigh Avenue,Lehigh,North,Avenue,25459
+fire_station,yes,Chicago Fire Department Engine Company 81,10458,South Hoxie Avenue,Hoxie,South,Avenue,735359
+fire_station,yes,Chicago Fire Department Engine Company 82,817-819,East 91st Street,91st,East,Street,684203
+fire_station,yes,Chicago Fire Department Engine Company 89,3945,West Peterson Avenue,Peterson,West,Avenue,43569
+fire_station,yes,Chicago Fire Department Engine Company 96,439-441,North Waller Avenue,Waller,North,Avenue,351927
+fire_station,yes,Chicago Fire Department Engine Company 98,202,East Chicago Avenue,Chicago,East,Avenue,336176
